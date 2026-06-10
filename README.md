@@ -1,16 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Asking Out Website is a romantic and interactive web application designed to create a memorable proposal and date-planning experience. Built with React, Vite, Tailwind CSS, DaisyUI, Framer Motion, and Zustand, the website guides users through a beautifully animated journey that begins with a heartfelt introduction and progresses through a proposal, celebration, date planning, location selection, food preferences, and a final date confirmation summary. The application features modern glassmorphism design, responsive layouts, floating heart animations, sparkles, confetti effects, background music, and smooth page transitions to create an engaging user experience. Users can personalize their date by choosing a preferred date, time, location, and meal, then easily copy or share the final plan. The project demonstrates modern frontend development practices, component-based architecture, state management, reusable UI design, animations, and responsive user interface development.
